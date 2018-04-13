@@ -1,9 +1,8 @@
 .gradle
 /local.properties
-/.idea/workspace.xml
+/.idea
 .DS_Store
 /build
-.idea/
-*iml
-*.iml
-*/build
+/captures
+DangoReader.iml
+app/app.iml
